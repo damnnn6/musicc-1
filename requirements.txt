@@ -34,3 +34,4 @@ httpx>=0.14.2
 gitpython
 rich
 heroku3
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
